@@ -16,7 +16,7 @@ format:
 title-slide-attributes:
   data-background-image: images/bg.png
   data-background-size: 30%
-  data-background-position: 1000px 350px
+  data-background-position: 80% 50%
 ---
 ## 📢 Zoom Meetup Event Reminders {.smaller}
 
