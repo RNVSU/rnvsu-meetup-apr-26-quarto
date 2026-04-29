@@ -15,7 +15,7 @@ format:
     embed-resources: true
 title-slide-attributes:
   data-background-image: images/bg.png
-  data-background-size: 24%
+  data-background-size: 23%
   data-background-position: 950px 380px
   style: "margin-left: -100px;"
 ---
@@ -157,15 +157,14 @@ Mussaenda Honor Sorority
 
 ## [{{< fa brands meetup >}}](https://www.meetup.com/r-nvsu/) Future Meetup Events {.meetup-heading .smaller}
 
-<br>
+Next Semester Highlights
 
-#### <span class="normal-link"> [April Meetup Event](https://www.meetup.com/r-nvsu/events/313601010/) </span>
-
-- Getting Started with <span class="normal-link"> [Quarto](https://quarto.org): </span> A Hands-On Workshop | <span class="normal-link"> [Isabella Velásquez](https://ivelasq.rbind.io/about) </span>
-
-    April 29, 2026 | Wednesday | 9:30-11:00 PM (PHT)
+- In-person sessions: apply and revisit learnings
+- Online sessions: upcoming topics (TBA)
+- Guest speakers (TBA)
+- Year-ender: connect and talk R
     
 ## 🎙️Introduction to the Speaker
 
-<iframe data-external="1" src="https://emilhvitfeldt.com" width="1200" height="500" style="border: 1px solid #ccc" frameborder="0">
+<iframe data-external="1" src="https://ivelasq.rbind.io/about" width="1200" height="500" style="border: 1px solid #ccc" frameborder="0">
 </iframe>
