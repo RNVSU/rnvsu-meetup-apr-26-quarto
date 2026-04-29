@@ -163,7 +163,7 @@ Next Semester Highlights
 - Online sessions: upcoming topics (TBA)
 - Guest speakers (TBA)
 - Year-ender: connect and talk R
-    
+
 ## 🎙️Introduction to the Speaker
 
 <iframe data-external="1" src="https://ivelasq.rbind.io/about" width="1200" height="500" style="border: 1px solid #ccc" frameborder="0">
