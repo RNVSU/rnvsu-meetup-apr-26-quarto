@@ -13,6 +13,10 @@ format:
 [https://rnvsu.github.io/rnvsu-meetup-apr-26-quarto/](https://rnvsu.github.io/rnvsu-meetup-apr-26-quarto/) | <a href='https://rnvsu.github.io/rnvsu-meetup-apr-26-quarto/' class='slide-icon'>{{< iconify streamline-freehand:performance-presentation-graph >}}</a>
 </span>"
     embed-resources: true
+title-slide-attributes:
+  data-background-image: images/bg.png
+  data-background-size: 30%
+  data-background-position: 1000px 350px
 ---
 ## 📢 Zoom Meetup Event Reminders {.smaller}
 
